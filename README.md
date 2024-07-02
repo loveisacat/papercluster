@@ -7,8 +7,7 @@ directly in 'report.ipynb' via Jupyter lab.
 
 
 If you are interested in code execution, please read the following:  
-For the Python environment preparation please install the required packages.  
-pip install -r requirements.txt  
+For the Python environment preparation please install the required packages: pip install -r requirements.txt  
 The execution code: python3 papercluster.py
 
 'Data Prepare' tips: I developed abstractExtractor tools from multiple sources original pdf, Google Scholar or Crossref API in 'abstractextractor.py'
