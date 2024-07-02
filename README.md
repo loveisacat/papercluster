@@ -6,7 +6,7 @@ Please read through the process and summary report of the results of this projec
 directly in 'report.ipynb' via Jupyter lab.
 
 
-If you are interested in code execution, please read the following.
+If you are interested in code execution, please read the following:  
 For the Python environment preparation please install the required packages.  
 pip install -r requirements.txt  
 The execution code: python3 papercluster.py
